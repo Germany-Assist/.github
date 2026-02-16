@@ -4,7 +4,7 @@ about: Something broken.
 title: ''
 labels: bug
 assignees: ''
-
+type: bug
 ---
 
 ## Issue
