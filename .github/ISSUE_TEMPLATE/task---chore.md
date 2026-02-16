@@ -2,9 +2,9 @@
 name: Task / Chore
 about: Non-feature work.
 title: ''
-labels: ''
+labels: bug
 assignees: ''
-
+type: task
 ---
 
 ## Task
@@ -15,3 +15,6 @@ What’s included / not included?
 
 ## Done When
 - [ ]
+
+## Notes
+Dependencies / constraints (optional)
