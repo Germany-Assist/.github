@@ -17,4 +17,4 @@ What’s included / not included?
 - [ ]
 
 ## Notes
-Dependencies / constraints (optional)
+Dependencies / constraints / URLS / Screenshots (optional)
