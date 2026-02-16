@@ -2,7 +2,7 @@
 name: Task / Chore
 about: Non-feature work.
 title: ''
-labels: bug
+labels: ''
 assignees: ''
 type: task
 ---
