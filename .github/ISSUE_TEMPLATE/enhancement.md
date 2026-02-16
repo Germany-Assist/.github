@@ -4,7 +4,7 @@ about: Improve existing feature
 title: ''
 labels: enhancement
 assignees: ''
-
+type: feature
 ---
 
 ## Current Behavior
