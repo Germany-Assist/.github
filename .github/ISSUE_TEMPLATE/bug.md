@@ -20,3 +20,6 @@ What should happen?
 
 ## Environment
 (optional)
+
+## Notes
+Dependencies / constraints (optional)
