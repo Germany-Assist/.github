@@ -4,7 +4,7 @@ about: New functionality.
 title: ''
 labels: enhancement
 assignees: ''
-
+type: feature
 ---
 
 ## Problem
