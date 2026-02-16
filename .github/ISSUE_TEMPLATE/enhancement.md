@@ -15,3 +15,6 @@ What changes?
 
 ## Reason
 Why are we doing this?
+
+## Notes
+Dependencies / constraints (optional)
